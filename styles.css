@@ -157,7 +157,7 @@ header {
   text-align: center;
   border: var(--border);
   padding: 5rem;
-  cursor: pointer;
+  /*cursor: pointer;*/
 }
 
 .menu .box-container .box img {
