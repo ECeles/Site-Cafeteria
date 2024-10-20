@@ -34,6 +34,7 @@ header {
   right: 0;
   z-index: 99;
   border-bottom: var(--border);
+  background-color: var(--bg);
 }
 
 .header section {
@@ -104,4 +105,17 @@ header {
   cursor: pointer;
   margin-top: 1rem;
   display: inline-block;
+}
+
+.title {
+  font-size: 4rem;
+  color: var(--main-color);
+}
+
+.title span {
+  color: #fff;
+  text-align: center;
+}
+
+.about {
 }
